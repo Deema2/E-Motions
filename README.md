@@ -8,4 +8,4 @@ To run the Java code, it is important to download all dependencies, including al
 
 
 
-All rights are reserved to @Giohanny for the dataset.
+All copy rights are reserved to @Giohanny for the dataset.
